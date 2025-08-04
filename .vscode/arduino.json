@@ -1,0 +1,5 @@
+{
+    "board": "ClearCore:sam:clearcore",
+    "sketch": "lynx_conveyor.ino",
+    "output": "./build"
+}
